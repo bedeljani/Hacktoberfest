@@ -7,12 +7,11 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to contribute to this project
-Here are 2 quick and painless ways to contribute to this project:
+Here are quick and painless ways to contribute to this project:
 
 * Add your name and your city to the `contributors/CONTRIBUTOR.json` file
-* Add a profile page to the `profiles` directory
 
-Choose one or all 2, make a pull request for your work !
+Make a pull request for your work !
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -39,8 +38,8 @@ git push origin branch-name
 * Wait for your PR review
 * __Star this repository__ if you had fun!
 
-## Choose from these tasks
-### 1. Add your name and city
+## Tasks
+### Add your name and city
 Add your name to the `contributros/CONTRIBUTORS.json` file using the below convention:
 
 ```markdown
@@ -50,36 +49,6 @@ Add your name to the `contributros/CONTRIBUTORS.json` file using the below conve
 }
 ```
 
-### 2. Add a profile page
-Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
-
-```markdown
-# Your Name
-
-### Location
-
-Your City/Country
-
-### Academics
-
-Your School
-
-### Interests
-
-- Some Things You Like
-
-### Development
-
-- Inventor of the My Pillow
-
-### Projects
-
-- [My Project](GitHub Link) Short Description
-
-### Profile Link
-
-[Your Name](GitHub Link)
-```
 
 ## Run Project and Find Your Name
 - Install Depedencies
