@@ -82,11 +82,15 @@ Your School
 ```
 
 ## Run Project and Find Your Name
-
+- Install Depedencies
+```
+npm install
+```
+- Start Project
 ```
 npm start 
 ```
-This Project running on `locahost:3000`
+-This Project running on `locahost:3000`
 
 ## Reference links
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
