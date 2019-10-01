@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎉 HacktoberFest Starter Project 🎉
 
 
 ## What is Hacktoberfest?
