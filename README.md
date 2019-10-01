@@ -19,7 +19,7 @@ Choose one or all 2, make a pull request for your work !
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/Hacktoberfest.git
 ```
 
 * Make your changes (choose from any task below)
