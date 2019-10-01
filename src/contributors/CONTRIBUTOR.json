@@ -8,6 +8,10 @@
     "name": "Maria",
     "city": "Jakarta"
 
-  }
+  },
+  { "name": "Dmitry",
+    "city": "Moscow"
 
+  },
+  
 ]
